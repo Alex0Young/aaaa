@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+touch /tmp/alex
+ls /tmp
+
